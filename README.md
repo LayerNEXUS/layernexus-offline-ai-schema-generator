@@ -1,0 +1,1 @@
+# layernexus-offline-ai-schema-generator
